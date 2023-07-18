@@ -1,4 +1,4 @@
-# zona_de_habitabilidad
+# zohapy
 funcion la cual calcula la zona de habitabilidad.
 
 para ellos se necesitan los siguientes datos de entrada que seran ingresados por el usuario:
