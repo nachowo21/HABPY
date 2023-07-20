@@ -1,4 +1,4 @@
-# ZOHAPY
+# HABPY
 funcion la cual calcula la zona de habitabilidad.
 
 para ellos se necesitan los siguientes datos de entrada que seran ingresados por el usuario:
