@@ -1,7 +1,0 @@
-README.md
-setup.py
-zona_habitable.py
-HABPY.egg-info/PKG-INFO
-HABPY.egg-info/SOURCES.txt
-HABPY.egg-info/dependency_links.txt
-HABPY.egg-info/top_level.txt
