@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='HABPY',  #nombre del paquete
      version='0.1', #versión
-     scripts=['HABPY'] , #nombre del ejecutable
+     scripts=['zona_habitable.py'] , #nombre del ejecutable
      author="ignacio solis", #autor
      author_email="ignacio.solis.m@usach.cl", #email
      description="un paquete para encontrar la zona habitable de una estrella", #Breve descripción
