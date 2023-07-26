@@ -41,4 +41,3 @@ def zona_habitable():
     plt.show()
 
     return 
-print(zona_habitable())
