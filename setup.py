@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh: #saltarselo si no tienes el README en la carp
 
 setup(
       name = 'HABZONEpy', # aqui el nombre de la carpeta donde esta tu modulo/archivo/programa
-      version = '1.0.2', # la version correspondiente del programa, VERSION, no commit de github
+      version = '1.0.3', # la version correspondiente del programa, VERSION, no commit de github
       license = 'MIT',
       description = 'codigo para visualizar y encontrar la zona habitable', # breve descripcion
       long_description = long_description,
