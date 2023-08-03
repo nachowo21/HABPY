@@ -19,6 +19,8 @@ version de numpy : 1.21.5
 ### utilización del codigo
 el codigo de por sí es una sola funcion por ende para importarlo se debe colocar los siguiente: 
 
-from HABZONEpy import zohab
+'''from HABZONEpy import zohab'''
 
-para ejecutarlo colocar: print(zohab.zona_habitable())
+para ejecutarlo colocar: 
+
+'''print(zohab.zona_habitable())'''
